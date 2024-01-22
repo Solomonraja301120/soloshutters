@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: white;
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+ image{
+    size: 200px200px;
+ }
+ nav{
+    background-color: black;
+ }
+ ul{
+    display: inline;
+    
+ }
+ ul{
+    margin-left: 80%;
+ }
+ li{
+    display: inline;
+    cursor: pointer;
+ }
+ li:hover{
+    color: yellow;
+ }
+ .cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+ }
+
+
+.para{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+.cont div{
+    margin: 10px;
+    justify-content: space-around;
+
+}
+.flo{
+    text-align: center;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+.contact{
+    color: white;
+}
